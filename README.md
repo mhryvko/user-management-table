@@ -13,7 +13,8 @@ Prerequisites
 Installation
 
 Clone this repository to your local machine:
-git clone https://github.com/yourusername/user-management-table.git
+```
+https://github.com/mhryvko/user-management-table.git
 
 
 Navigate to the project directory:
