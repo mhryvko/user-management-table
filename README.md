@@ -15,19 +15,23 @@ Installation
 Clone this repository to your local machine:
 ```
 https://github.com/mhryvko/user-management-table.git
+```
 
 
 Navigate to the project directory:
 ```
 cd user-management-table
+```
 
 Install the necessary dependencies:
 ```
 npm install
+```
 
 Start the development server:
 ```
 npm start
+```
 
 This will open the project in your default browser, usually at http://localhost:3000.
 
