@@ -18,17 +18,24 @@ https://github.com/mhryvko/user-management-table.git
 
 
 Navigate to the project directory:
+```
 cd user-management-table
 
 Install the necessary dependencies:
+```
 npm install
 
 Start the development server:
+```
 npm start
 
 This will open the project in your default browser, usually at http://localhost:3000.
 
 API
 The data for the users is fetched from the JSONPlaceholder API.
+
+DEMO:
+```
+https://user-management-table-s9p5.vercel.app/
 
 
